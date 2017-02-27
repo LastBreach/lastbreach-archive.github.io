@@ -1,0 +1,73 @@
+<!-- from cache (3596/3600) --><?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Blog: Pentesting, Systemhärtung & IT-Sicherheit</title>
+        <link>https://www.lastbreach.de/blog.rss</link>
+        <description>My Feed Description</description>
+        <language>en-us</language>
+        <atom:link href="https://www.lastbreach.de/blog.rss" rel="self" type="application/rss+xml"/>
+                        <item>
+            <title>Online Sicherheit für Laien: Teil 2 - Passwörter leicht gemacht</title>
+            <link>https://www.lastbreach.de/blog/online-sicherheit-schritt-fuer-schritt-teil-2</link>
+            <description>
+                <![CDATA[
+                                <img src="https://www.lastbreach.de/images/b/3/3/6/6/b3366835a624808070ecaecda5e97066a7a1d769-bitwardenabfragezumspeicherndesneuenlogins.png" />
+                                <p>Im letzten Teil unserer Postreihe “Sicherheit für Laien”, ging es um die gängigen Sicherheitspraktiken, wie sie von Laien und Experten gleichermaßen angewandt werden. In diesem und dem nächsten Teil möchte ich etwas genauer auf zwei Punkte des letzten Artikels eingehen und diese anhand von...</p>
+                ]]>
+            </description>
+            <category>Sicherheit,Internet,Endnutzer,Verschlüsselung,Passwörter,Passwortmanager</category>
+            <guid>https://www.lastbreach.de/blog/online-sicherheit-schritt-fuer-schritt-teil-2</guid>
+            <pubDate>Tue, 24 Jan 2017 10:17:40 +0100</pubDate>
+        </item>
+                        <item>
+            <title>Online Sicherheit für Laien: Teil 1 - Was tun um sich zu schützen?</title>
+            <link>https://www.lastbreach.de/blog/online-sicherheit-schritt-fuer-schritt-teil-1</link>
+            <description>
+                <![CDATA[
+                                <img src="https://www.lastbreach.de/images/8/d/a/7/3/8da735a772c7be2d2fde8bcef18901493b63c6b6-screenshot20160905181435.png" />
+                                <p><strong>Was macht Ihr um euch zu schützen?</strong></p><p>Diese Frage <a href="https://www.usenix.org/system/files/conference/soups2015/soups15-paper-ion.pdf">stellte Google in einer Studie (PDF)</a> sowohl Sicherheitsexperten mit mindestens 5 Jahren Berufserfahrung, als auch normalen Internet-Usern. Das Ergebnis fiel dabei recht unterschiedlich aus. Die Experten nannten vorwiegend Schutzmaßnahmen wie das re...</p>
+                ]]>
+            </description>
+            <category>Sicherheit,Endnutzer,Web,Internet</category>
+            <guid>https://www.lastbreach.de/blog/online-sicherheit-schritt-fuer-schritt-teil-1</guid>
+            <pubDate>Mon, 05 Sep 2016 21:11:00 +0200</pubDate>
+        </item>
+                        <item>
+            <title>WoW Trickbetrüger räumen Inventar leer</title>
+            <link>https://www.lastbreach.de/blog/wow-trickbetrueger-raeumen-inventar-leer</link>
+            <description>
+                <![CDATA[
+                                <p>Auch wenn der Begriff "Social Engineering" vielen noch unbekannt ist, so findet es dennoch auch im privaten Bereich bereits häufig Anwendung. Ob angebliche Support-Anrufe von "Microsoft Mitarbeitern" oder als Emailanhang versendete Crypto-Trojaner, Ziel ist es durch Beihilfe des Opfers das erwünsc...</p>
+                ]]>
+            </description>
+            <category>Awareness,Social Engineering,Betrug,Videospiele</category>
+            <guid>https://www.lastbreach.de/blog/wow-trickbetrueger-raeumen-inventar-leer</guid>
+            <pubDate>Fri, 29 Jul 2016 22:23:00 +0200</pubDate>
+        </item>
+                        <item>
+            <title>Whitepaper: Cryptotrojaner &amp; Ransomware</title>
+            <link>https://www.lastbreach.de/blog/whitepaper-cryptotrojaner-und-ransomware</link>
+            <description>
+                <![CDATA[
+                                <p>Vielen Dank, dass Sie sich für unser kostenfreies IT Security-Whitepaper interessieren. Sie sind nur noch einen Schritt davon entfernt, mehr über die häufigsten Fehler und wichtigsten Sofortmaßnahmen im Umgang mit Cryptotrojanern und Ransomware zu erfahren.</p><p><a href="/blog/whitepaper-cryptotrojaner-und-ransomware/Ransomware%20Whitepaper%20LastBreach.pdf">Download Our Ransomware Whitepaper Now.</a></p>
+                ]]>
+            </description>
+            <category>Awareness,Encryption,Whitepaper,Ransomware,Cryptotrojaner</category>
+            <guid>https://www.lastbreach.de/blog/whitepaper-cryptotrojaner-und-ransomware</guid>
+            <pubDate>Thu, 14 Apr 2016 00:00:00 +0200</pubDate>
+        </item>
+                        <item>
+            <title>Monetäre Schäden durch Cyber-Angriffe?</title>
+            <link>https://www.lastbreach.de/blog/physical-monetary-damages-through-cyber-attacks</link>
+            <description>
+                <![CDATA[
+                                <p><strong>Mehr Realität als Geistergeschichten für CIOs und CISOs</strong><br>
+Wie die „jüngsten“ Ereignisse im deutsche Bundestag gezeigt haben, können Cyber-Angriffe monetäre Schäden hinterlassen wenn die Infrastruktur oder besser gesagt die auf der Infrastruktur laufenden System so stark manipuliert oder gesch...</p>
+                ]]>
+            </description>
+            <category>Awareness,Monetary Damage,Risk</category>
+            <guid>https://www.lastbreach.de/blog/physical-monetary-damages-through-cyber-attacks</guid>
+            <pubDate>Fri, 24 Jul 2015 00:00:00 +0200</pubDate>
+        </item>
+            </channel>
+</rss>
